@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3d473e9-f9bd-48aa-8d24-47e89215e14c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Char/SocketClient/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketClient/target/app-spring-boot.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketClient/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketClient/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketClient/target/socket-client.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketClient/target/socket-client.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketClient/target/socket-client.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketClient/target/socket-client.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/config/SocketsApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/config/SocketsApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/repositories/CrudRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/repositories/CrudRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/repositories/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/repositories/UsersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/repositories/UsersRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/repositories/UsersRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/services/UsersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/services/UsersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/services/UsersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/java/edu.school21.sockets/services/UsersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/target/app-spring-boot.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/target/classes/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/target/classes/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/target/socket-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/target/socket-server.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Char/SocketServer/target/socket-server.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/Char/SocketServer/target/socket-server.jar.original" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jKslqVxKs3TEoHAVx4epBsz1ae" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d473e9-f9bd-48aa-8d24-47e89215e14c" name="Default Changelist" comment="" />
+      <created>1603564271107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603564271107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1642" y="408" key="#com.intellij.ide.util.MemberChooser" timestamp="1603565885641">
+      <screen x="0" y="23" width="2560" height="1343" />
+    </state>
+    <state x="1642" y="408" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1343@0.23.2560.1343" timestamp="1603565885641" />
+  </component>
+</project>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aee7ff05-71c0-412b-87ae-68b8ea00a589" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SocketClient/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketClient/target/app-spring-boot.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketClient/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketClient/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketClient/target/socket-client.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketClient/target/socket-client.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SocketClient/target/socket-client.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../SocketClient/target/socket-client.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/app-spring-boot.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/socket-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/socket-server.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/socket-server.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/socket-server.jar.original" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1jJYp1flQY8u7FVn4h4xkX13O0M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aee7ff05-71c0-412b-87ae-68b8ea00a589" name="Default Changelist" comment="" />
+      <created>1603523840926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603523840926</updated>
+    </task>
+    <servers />
+  </component>
+</project>
