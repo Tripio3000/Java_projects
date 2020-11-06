@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="786988a3-ee1c-4fab-a1c0-f7ed3a5a1c43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projects_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/04/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/04/ex00/ImagesToChar/resources/it.bmp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/06/ex00/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/ex01/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/01/ex01/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/ex02/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/02/ex02/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02/ex02/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/02/ex02/UserNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03/ex00/FileTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/03/ex00/FileTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00/ex01/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/00/ex01/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/ex02/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/01/ex02/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/ex02/UserNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/01/ex02/UserNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02/ex00/FileTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/02/ex00/FileTypeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04/Module04.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/04/ex00/ImagesToChar/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04/ex00/ImagesToChar/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/04/ex01/ImagesToChar/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/04/ex01/ImagesToChar/README.txt" afterDir="false" />
@@ -21,30 +26,30 @@
       <change beforePath="$PROJECT_DIR$/07/target/classes/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/07/target/classes/Program.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07/target/classes/classes/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/07/target/classes/classes/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07/target/classes/classes/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/07/target/classes/classes/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketClient/socket-client.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/app-spring-boot.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/socket-client.jar" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/socket-client.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/socket-client.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketClient/target/socket-client.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/socket-server.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/app-spring-boot.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/CrudRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/SocketsApplicationConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepositoryImpl$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepositoryImpl$UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepositoryImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/socket-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/socket-server.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/socket-server.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/09/ex00/Char/SocketServer/target/socket-server.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketClient/socket-client.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/app-spring-boot.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/socket-client.jar" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/socket-client.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/socket-client.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketClient/target/socket-client.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/socket-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/app-spring-boot.jar" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/app-spring-boot.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/CrudRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/SocketsApplicationConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepositoryImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepositoryImpl$UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersRepositoryImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/classes/edu/school21/sockets/app/UsersServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/socket-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/socket-server.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/socket-server.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/08/ex00/Char/SocketServer/target/socket-server.jar.original" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +57,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/03" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jvAgO7G8LxGtaImXEg6kRYJWNy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

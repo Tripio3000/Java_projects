@@ -10,6 +10,7 @@
     <mapping directory="$PROJECT_DIR$/05" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/06" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/07" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/09" vcs="Git" />
   </component>
 </project>
