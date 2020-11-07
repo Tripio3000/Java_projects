@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.school21.numbers.NumberWorkerTest" time="0.187" tests="32" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.school21.numbers.NumberWorkerTest" time="0.158" tests="32" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/cseabass/Desktop/module06/ex00/Tests/target/test-classes:/Users/cseabass/Desktop/module06/ex00/Tests/target/classes:/Users/cseabass/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/cseabass/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.jar:/Users/cseabass/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.0/junit-jupiter-params-5.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.jar:/Users/cseabass/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar:"/>
+    <property name="java.class.path" value="/Users/cseabass/projects_java/06/ex00/Tests/target/test-classes:/Users/cseabass/projects_java/06/ex00/Tests/target/classes:/Users/cseabass/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/cseabass/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.jar:/Users/cseabass/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.0/junit-jupiter-params-5.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.jar:/Users/cseabass/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://openjdk.java.net/"/>
@@ -12,10 +12,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Users/cseabass/.brew/Cellar/openjdk/14.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/cseabass/Desktop/module06/ex00/Tests/target/surefire/surefirebooter13475003274115968687.jar /Users/cseabass/Desktop/module06/ex00/Tests/target/surefire 2020-10-28T22-24-12_858-jvmRun1 surefire17333862861491707073tmp surefire_014182713294911139071tmp"/>
+    <property name="sun.java.command" value="/Users/cseabass/projects_java/06/ex00/Tests/target/surefire/surefirebooter4898604635516255737.jar /Users/cseabass/projects_java/06/ex00/Tests/target/surefire 2020-11-07T18-20-45_710-jvmRun1 surefire9411716176946516321tmp surefire_014455224967408883760tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/cseabass/Desktop/module06/ex00/Tests/target/test-classes:/Users/cseabass/Desktop/module06/ex00/Tests/target/classes:/Users/cseabass/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/cseabass/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.jar:/Users/cseabass/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.0/junit-jupiter-params-5.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.jar:/Users/cseabass/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/cseabass/projects_java/06/ex00/Tests/target/test-classes:/Users/cseabass/projects_java/06/ex00/Tests/target/classes:/Users/cseabass/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/cseabass/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.jar:/Users/cseabass/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-engine/1.4.0/junit-platform-engine-1.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.4.0/junit-jupiter-params-5.4.0.jar:/Users/cseabass/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.jar:/Users/cseabass/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar:/Users/cseabass/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0/junit-platform-commons-1.4.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/cseabass"/>
     <property name="user.language" value="en"/>
@@ -23,12 +23,12 @@
     <property name="java.version.date" value="2020-04-14"/>
     <property name="java.home" value="/Users/cseabass/.brew/Cellar/openjdk/14.0.1/libexec/openjdk.jdk/Contents/Home"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/Users/cseabass/Desktop/module06/ex00/Tests"/>
+    <property name="basedir" value="/Users/cseabass/projects_java/06/ex00/Tests"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/Users/cseabass/Desktop/module06/ex00/Tests/target/surefire/surefirebooter13475003274115968687.jar"/>
+    <property name="surefire.real.class.path" value="/Users/cseabass/projects_java/06/ex00/Tests/target/surefire/surefirebooter4898604635516255737.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="14.0.1+14"/>
@@ -42,7 +42,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/var/folders/zz/zyxvpxvq6csfxvn_n0001_vc000_pv/T/"/>
     <property name="java.version" value="14.0.1"/>
-    <property name="user.dir" value="/Users/cseabass/Desktop/module06/ex00/Tests"/>
+    <property name="user.dir" value="/Users/cseabass/projects_java/06/ex00/Tests"/>
     <property name="os.arch" value="x86_64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.library.path" value="/Users/cseabass/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
@@ -53,34 +53,34 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[1]" classname="edu.school21.numbers.NumberWorkerTest" time="0.036"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[4]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[5]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[6]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[1]" classname="edu.school21.numbers.NumberWorkerTest" time="0.032"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[4]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[5]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[6]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
   <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[7]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
   <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[8]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[9]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[10]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
-  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[11]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[9]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[10]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
+  <testcase name="NotCorrectDigitsSum{ArgumentsAccessor}[11]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
   <testcase name="isPrimeForNotPrimes{int}[1]" classname="edu.school21.numbers.NumberWorkerTest" time="0.004"/>
-  <testcase name="isPrimeForNotPrimes{int}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
-  <testcase name="isPrimeForNotPrimes{int}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="isPrimeForNotPrimes{int}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
+  <testcase name="isPrimeForNotPrimes{int}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
   <testcase name="CorrectDigitsSum{ArgumentsAccessor}[1]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
   <testcase name="CorrectDigitsSum{ArgumentsAccessor}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
+  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
   <testcase name="CorrectDigitsSum{ArgumentsAccessor}[4]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
   <testcase name="CorrectDigitsSum{ArgumentsAccessor}[5]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
-  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[6]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[7]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[8]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[9]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[6]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[7]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[8]" classname="edu.school21.numbers.NumberWorkerTest" time="0.002"/>
+  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[9]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
   <testcase name="CorrectDigitsSum{ArgumentsAccessor}[10]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[11]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="isPrimeForPrimes{int}[1]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="isPrimeForPrimes{int}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
-  <testcase name="isPrimeForPrimes{int}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
+  <testcase name="CorrectDigitsSum{ArgumentsAccessor}[11]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="isPrimeForPrimes{int}[1]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="isPrimeForPrimes{int}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
+  <testcase name="isPrimeForPrimes{int}[3]" classname="edu.school21.numbers.NumberWorkerTest" time="0.001"/>
   <testcase name="isPrimeForPrimes{int}[4]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
   <testcase name="isPrimeForIncorrectNumbers{int}[1]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
   <testcase name="isPrimeForIncorrectNumbers{int}[2]" classname="edu.school21.numbers.NumberWorkerTest" time="0"/>
