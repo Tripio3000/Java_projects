@@ -14,6 +14,7 @@ field values.
 * Display information about the created object of the class.
 * Call class methods.
 
+## An example of how the application works:
 ```Classes:
 - User
 - Car
@@ -48,4 +49,4 @@ Enter name of the method for call:
 Enter int value:
 -> 10
 Method returned:
-195```
+195
