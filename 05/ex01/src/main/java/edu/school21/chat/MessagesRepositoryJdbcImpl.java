@@ -1,5 +1,7 @@
 package edu.school21.chat;
 
+import edu.school21.chat.models.*;
+
 import javax.sql.DataSource;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,14 +9,15 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 
 public class MessagesRepositoryJdbcImpl implements MessageRepository {
     private DataSource source;
     private List<Message> messages;
+
     public MessagesRepositoryJdbcImpl(DataSource source) throws SQLException {
         this.source = source;
     }
+
     private void fetchData() throws SQLException {
         String SQL__MES = "select * from messages";
         // String SQL__USER = "select * from users";

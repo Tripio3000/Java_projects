@@ -5,11 +5,11 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Main {
-    private static final String url = "jdbc:postgresql://localhost:5432/chat_db";
+    private static final String url = "jdbc:postgresql://localhost:5432/postgres";
 
     public static void main(String[] args) throws SQLException {
         try {
-            Connection connection = DriverManager.getConnection(url);
+            Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres","postgres", "54321");
             if (!connection.isClosed()) {
                 System.out.println("Соединение установлено!");
             }
